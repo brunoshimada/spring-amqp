@@ -1,0 +1,4 @@
+rootProject.name = 'rabbitmq-spring'
+include 'rabbitmq-listener'
+include 'rabbitmq-sender'
+
