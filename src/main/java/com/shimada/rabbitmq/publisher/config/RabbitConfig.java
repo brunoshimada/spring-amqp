@@ -1,4 +1,4 @@
-package com.shimada.rabbitmq.config;
+package com.shimada.rabbitmq.publisher.config;
 
 import org.springframework.amqp.core.Queue;
 import org.springframework.context.annotation.Bean;

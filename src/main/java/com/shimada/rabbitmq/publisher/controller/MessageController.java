@@ -1,7 +1,7 @@
-package com.shimada.rabbitmq.controller;
+package com.shimada.rabbitmq.publisher.controller;
 
-import com.shimada.rabbitmq.config.RabbitSender;
-import com.shimada.rabbitmq.controller.model.Message;
+import com.shimada.rabbitmq.publisher.config.RabbitSender;
+import com.shimada.rabbitmq.publisher.controller.model.Message;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;

@@ -1,4 +1,4 @@
-package com.shimada.rabbitmq.controller.model;
+package com.shimada.rabbitmq.publisher.controller.model;
 
 public class Message {
 
